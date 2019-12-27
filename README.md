@@ -4,7 +4,7 @@ This is the source code for [the digital art installation "Acrostic Pi"](https:/
 
 ## What is it?
 
-Acrostic Pi builds a decimal representatin of π entirely from retweets discovered by happenstance. (It tries to limit itself to retweeting only "SFW" tweets.)
+Acrostic Pi builds a decimal representation of π entirely from retweets discovered by happenstance. (It tries to limit itself to retweeting only "SFW" tweets.)
 
 If it's configured properly and all its prerequisite libraries are available to it, then the `pirt.pl` script will attempt to follow these steps:
 
@@ -40,7 +40,7 @@ Then the script exits. It is meant to run via an automated scheduler (such as `c
 
 Haha, yeah.
 
-I created it on a whim on 2014. I open-sourced it in 2019 after [the BotWiki project](https://botwiki.org) invited me to submit it into its collection. It prefers open-source submissions, and it was Christmas, and I try to keep my ego burning low. So here you have it.
+I created it on a whim on 2014. I open-sourced it in 2019 after [the Botwiki project](https://botwiki.org) invited me to submit it into its collection. Botwiki prefers open-source submissions, and it was Christmas, and I try to keep my ego burning low. So here you have it.
 
 This is not meant to be model code, much less reusable code. It is, at best, amusable code. I hope only that it succeeds at this, for someone.
 
