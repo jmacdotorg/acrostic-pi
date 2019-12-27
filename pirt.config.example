@@ -1,0 +1,7 @@
+# Copy this file to "pirt.config" and update to taste.
+# You'll get all these values from Twitter, after you register a new
+# application with them.
+consumer_key        = SomeSecret
+consumer_secret     = AnotherSecret
+access_token        = SoManySecrets
+access_token_secret = TooManySecretsYouCouldSay
