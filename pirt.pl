@@ -148,10 +148,8 @@ if ( $chosen_status ) {
     print $next_digit_fh ++$next_digit . "\n";
     close $next_digit_fh;
 }
-else {
-    if ( $ARGV{ debug } ) {
-	warn "Couldn't find '$word' within $SEARCH_LIMIT tweets.\n";
-    }
+elsif ( $ARGV{ verbose } ) {
+    warn "Couldn't find '$word' within $SEARCH_LIMIT tweets.\n";
 }
 
 sub commify {
